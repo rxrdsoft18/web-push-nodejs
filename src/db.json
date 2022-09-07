@@ -1,0 +1,42 @@
+{
+  "subscriptions": [
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/d9TTrOQVKYM:APA91bFfF4sbOuKljXrrqxiTFEQCJQnXNrDPljm3z2KCHp5isSdZ7n22nK007tMwD1THM7wec_JTV7Va8tSDB3NyLE7muhozU3G6Ep0dXtcVpFjqlLBIlStyGy2jRDk5sHXO-tyMGACS",
+      "keyP256dh": "BFgLwIrkP5jPuDhYcghDzaOwLx-ICjCuBtyuIixXRIpCrU7T6uRI_DpYFPlCvohLq0DrMDtwpPUwTwm9c9gUFBo",
+      "keyAuth": "3KS8FjXKyoUkZez7qegJVA",
+      "userId": 360
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/f0KEL8srMg4:APA91bGhj_hLqt0UUs-812BW8G85Oi4Z9tcFWgLCd-OX6tqIWZR15ZgVEWttgyaDD0ImPxRJwpiUzM-XsalgyI0MAHGaJ4JsIDaekoEDIQXRTvQ9YRIjHny6Y_9XGmPejk1aff7V83oo",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BESG0OHHE2jvr6imTt9c-fGE2d_kVHF34Zu7QOHLtzu0WCcN07J3qLLzYgL5IcuYMXuK2ZhSpNdIPwGE3MINF6E",
+        "auth": "rPvK7IlkuSIswxZ30L9pCw"
+      }
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/f0KEL8srMg4:APA91bGhj_hLqt0UUs-812BW8G85Oi4Z9tcFWgLCd-OX6tqIWZR15ZgVEWttgyaDD0ImPxRJwpiUzM-XsalgyI0MAHGaJ4JsIDaekoEDIQXRTvQ9YRIjHny6Y_9XGmPejk1aff7V83oo",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BESG0OHHE2jvr6imTt9c-fGE2d_kVHF34Zu7QOHLtzu0WCcN07J3qLLzYgL5IcuYMXuK2ZhSpNdIPwGE3MINF6E",
+        "auth": "rPvK7IlkuSIswxZ30L9pCw"
+      }
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/cq6gUsOAyt0:APA91bGnWu-1TLMe3vSuNnxUwiYruLVQI6bv0z4hav0cNk1gTmbssUJ44CQZ-OOVM9ZSMjUI-opo3_IrQDXMU2iDZd4BbrlObQH-Fqr5u_Eui8NKeK5_q6os5QMmaJl2-_0FDlME-dHt",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BA_5vKkwf8gKzUIX2KI6TE_Tfk4jLDb0Tfaj0TfsZ8DOmxlSqlWDb5NuZwrRLm6yvSSsuNGZvCxDrY_WMBIsOHI",
+        "auth": "XuqCEFZcGl9eTLq7gLJkVw"
+      }
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/cEo0er_WTmQ:APA91bEHQzMu-Wsv5XAQGtxHMoSQWImEHHReADq2z7eKjF51zKoW8ywTxBBCs4O4eKxUHLopWDwK-Z4HA9CGj9bgI0mv1hOvsI8evKTE4FYtKQGRGVQGbrHr8LsD04UfsO_vE8Z1oqrs",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BD4sADtfx_b61QUorYuuh0_qW-X9yDoDM2i2Jl7wuMwkcJAjCW-F-av2pLDOq4OE5zKBNncEi5IyCn4zZKh895w",
+        "auth": "-Q9WrVoi-jjKs_VXDXPndA"
+      }
+    }
+  ]
+}
