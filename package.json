@@ -9,7 +9,7 @@
     "start:dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/rxrdsoft18",
   "license": "ISC",
   "dependencies": {
     "body-parse": "^0.1.0",
