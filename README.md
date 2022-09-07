@@ -27,3 +27,8 @@
 ```
  yarn start:dev
 ```
+
+#### Front project:
+```
+http://localhost:3005/index.html
+```
