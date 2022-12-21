@@ -30,6 +30,7 @@ if ('serviceWorker' in navigator && 'PushManager' in window) {
   subscribeButton.disabled = false;
 } else {
   console.error('Browser does not support service workers or push messages.');
+  alert('Browser does not support service workers or push messages.');
 }
 
 subscribeButton.addEventListener('click', subscribeButtonHandler);
