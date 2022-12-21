@@ -1,4 +1,4 @@
-const VAPID_PUBLIC_KEY = 'HERE_PUBLIC_KEY';
+const VAPID_PUBLIC_KEY = 'BPP5FowD0qs7-_iyXkUCuP9QALoo7N481kcO_3a1PCGalXsSmrIp-evJ4ApltS9506pS_xa9cGl3g2UBc9x2xb4';
 const subscribeButton = document.getElementById('subscribe');
 const unsubscribeButton = document.getElementById('unsubscribe');
 const notifyMeButton = document.getElementById('notify-me');
