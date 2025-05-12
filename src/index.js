@@ -76,6 +76,11 @@ app.post('/notify-all', (request, response) => {
 });
 
 function sendNotifications(subscriptions) {
+
+  console.log(`Sending notifications to ${subscriptions.length} subscribers`, subscriptions);
+
+  console.log('vapidDetails', vapidDetails);
+
   // Create the notification content.
   const notification = JSON.stringify({
     title: "Hola, cliente",
@@ -100,6 +105,7 @@ function sendNotifications(subscriptions) {
         console.log(`Result: ${result.statusCode}`);
       })
       .catch(error => {
+        console.log(`Error sending notification to ${endpoint}`, error);
         console.log(`Endpoint ID: ${id}`);
         console.log(`Error: ${error} `);
       });
